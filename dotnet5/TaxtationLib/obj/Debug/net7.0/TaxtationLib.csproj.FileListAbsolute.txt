@@ -1,0 +1,12 @@
+D:\Dot_Net\dotnet5\TaxtationLib\bin\Debug\net7.0\TaxtationLib.deps.json
+D:\Dot_Net\dotnet5\TaxtationLib\bin\Debug\net7.0\TaxtationLib.dll
+D:\Dot_Net\dotnet5\TaxtationLib\bin\Debug\net7.0\TaxtationLib.pdb
+D:\Dot_Net\dotnet5\TaxtationLib\obj\Debug\net7.0\TaxtationLib.csproj.AssemblyReference.cache
+D:\Dot_Net\dotnet5\TaxtationLib\obj\Debug\net7.0\TaxtationLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot_Net\dotnet5\TaxtationLib\obj\Debug\net7.0\TaxtationLib.AssemblyInfoInputs.cache
+D:\Dot_Net\dotnet5\TaxtationLib\obj\Debug\net7.0\TaxtationLib.AssemblyInfo.cs
+D:\Dot_Net\dotnet5\TaxtationLib\obj\Debug\net7.0\TaxtationLib.csproj.CoreCompileInputs.cache
+D:\Dot_Net\dotnet5\TaxtationLib\obj\Debug\net7.0\TaxtationLib.dll
+D:\Dot_Net\dotnet5\TaxtationLib\obj\Debug\net7.0\refint\TaxtationLib.dll
+D:\Dot_Net\dotnet5\TaxtationLib\obj\Debug\net7.0\TaxtationLib.pdb
+D:\Dot_Net\dotnet5\TaxtationLib\obj\Debug\net7.0\ref\TaxtationLib.dll
